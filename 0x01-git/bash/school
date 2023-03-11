@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "School"
+
+^C
+root@b11e6997f2f7:/alx-pre_course/0x01-git/bash#
+
+root@b11e6997f2f7:/alx-pre_course/0x01-git/bash# ls
